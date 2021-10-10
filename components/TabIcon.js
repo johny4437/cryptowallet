@@ -17,7 +17,7 @@ const TabIcon = ({focused, icon, iconStyle, label, isTrade}) =>{
                 height: 70,
                 borderRadius:35, 
                 backgroundColor:Colors.black,
-                marginTop:-50
+                marginTop:-5
                 }}>
                 <Image
                 source={icon}
